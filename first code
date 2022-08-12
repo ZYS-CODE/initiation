@@ -1,0 +1,10 @@
+//第一次尝试
+#include<stdio.h>
+
+int main()
+{
+	printf("开始学习C语言\n");
+
+
+		return 0;
+}
